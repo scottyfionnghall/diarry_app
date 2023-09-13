@@ -1,6 +1,6 @@
 # Diary App
 
-An RESTful API for a Diary web-site. This app is database powred by PostgreSQL. Implements an authorization by using OAuth Bearer Token in a form of JWT(JSON Web Token).
+An diary application build upon RESTful API. This app is database powred by PostgreSQL. Implements an authorization by using OAuth Bearer Token in a form of JWT(JSON Web Token).
 
 ## Endpoints
 
